@@ -9,16 +9,16 @@
 
 @import '../variables.scss';
 
-$brand-color: #61dafb;
+$brand-color: #D3D300;
 
 .root {
-  background: #373277;
-  color: #fff;
+  background: #97F9F3;
+  color: #D3D300;
 }
 
 .container {
   margin: 0 auto;
-  padding: 20px 0;
+  padding: 5px;
   max-width: $max-content-width;
 }
 
